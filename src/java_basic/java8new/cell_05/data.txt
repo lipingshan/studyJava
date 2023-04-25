@@ -1,0 +1,4 @@
+hello world
+my name is 小明
+I from china,
+I like 水果
