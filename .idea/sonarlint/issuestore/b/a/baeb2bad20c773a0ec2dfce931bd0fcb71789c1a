@@ -1,0 +1,14 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Øåƒ‘øÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¯ƒà¦üÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®èþÉøÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ë™ÃÒ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ÙøÌýÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ðäàäýÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¯ƒà¦üÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¯ƒà¦üÿÿÿÿ
+b
+java:S1192""GDefine a constant instead of duplicating this literal "data :" 3 times.(¯ƒà¦üÿÿÿÿ

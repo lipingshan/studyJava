@@ -1,0 +1,55 @@
+
+O	java:S125"<This block of commented-out lines of code should be removed.(©Íæ¥
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶ð­Àøÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(›œ„ã
+M
+java:S1854"9Remove this useless assignment to local variable "clazz".(¸ÏÑÜ
+T	java:S125"<This block of commented-out lines of code should be removed.(Ø‡ŽÐúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¾ð–›ÿÿÿÿÿ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰å´ƒþÿÿÿÿ
+F
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¾ð–›ÿÿÿÿÿ
+E
+java:S3011",This accessibility update should be removed.(íË©¶úÿÿÿÿ
+C
+java:S3740"/Provide the parametrized type for this generic.(ÁäˆÈ
+H
+java:S3740"/Provide the parametrized type for this generic.(‡ü’àûÿÿÿÿ
+N
+java:S1854":Remove this useless assignment to local variable "clazz2".(ŸêÖŸ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ð¼š
+@
+java:S3011",This accessibility update should be removed.(Ž¥“
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿú•ù
+C
+java:S3740"/Provide the parametrized type for this generic.(Óâü‚
+T	java:S125"<This block of commented-out lines of code should be removed.(œãÚúÿÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ú¢Ò
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ºùúºúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¬ÊÜœþÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(–äî«
+E
+java:S3011",This accessibility bypass should be removed.(ç±ƒªùÿÿÿÿ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ý»µ»þÿÿÿÿ
+Y
+java:S2133"@Remove this object instantiation and use "Person.class" instead.(‡ü’àûÿÿÿÿ
+E
+java:S3011",This accessibility bypass should be removed.(¶šÖØüÿÿÿÿ
+?
+java:S1481"+Remove this unused "clazz2" local variable.(ŸêÖŸ
+>
+java:S1481"+Remove this unused "clazz1" local variable.(§Â“^
+L	java:S106"9Replace this use of System.out or System.err by a logger.(»¬è„
+E
+java:S3011",This accessibility update should be removed.(çõãïýÿÿÿÿ
+>
+java:S1481"*Remove this unused "clazz" local variable.(¸ÏÑÜ
+T
+java:S2133"@Remove this object instantiation and use "Person.class" instead.(ŸêÖŸ
+M
+java:S1854":Remove this useless assignment to local variable "clazz1".(§Â“^
+T	java:S125"<This block of commented-out lines of code should be removed.(éùÕþÿÿÿÿ
+E
+java:S3011",This accessibility update should be removed.(Í”úÆùÿÿÿÿ
+Y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ûÑÜª

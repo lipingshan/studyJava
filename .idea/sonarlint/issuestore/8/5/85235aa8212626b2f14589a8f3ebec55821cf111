@@ -1,0 +1,15 @@
+
+\	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²âÚıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©çĞşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨®à
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æ«ÌÖùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‚ãØ½
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(‰å´ƒşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‘ú¶øÿÿÿÿ
+p
+java:S20953"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(á·‡ øÿÿÿÿ8ÆÄÅ²ˆ/
+o
+java:S2095-"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8ÆÄÅ²ˆ/
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ8ÆÄÅ²ˆ/

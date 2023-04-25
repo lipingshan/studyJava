@@ -1,0 +1,12 @@
+
+_
+java:S1854"CRemove this useless assignment to local variable "forecastDisplay".(¤äÚ?8ëù©¼ó.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªØšäúÿÿÿÿ8“ë¬¼ó.
+P
+java:S1481"4Remove this unused "forecastDisplay" local variable.(¤äÚ?8ëù©¼ó.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊžÅ¯
+Z
+java:S1481"=Remove this unused "currentConditionsDisplay" local variable.(ÆÇ‘ç8†ï§¼ó.
+i
+java:S1854"LRemove this useless assignment to local variable "currentConditionsDisplay".(ÆÇ‘ç8†ï§¼ó.

@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+C
+java:S1121".Extract the assignment out of this expression.(¿Ù—
+J
+java:S3740"/Provide the parametrized type for this generic.(õÊ”œÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(‘”÷’ıÿÿÿÿ
+m
+java:S1450"RRemove the "sex" field and declare it as a local variable in the relevant methods.(«Ÿ…úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š§Üøÿÿÿÿ

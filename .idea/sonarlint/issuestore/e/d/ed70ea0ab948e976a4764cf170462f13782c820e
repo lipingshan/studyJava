@@ -1,0 +1,24 @@
+
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8Ü‡–°ø.
+\
+java:S4719ƒ"9Replace charset name argument with StandardCharsets.UTF_8(õÑÈ ùÿÿÿÿ8µÂÙéû.
+d	java:S899Ÿ"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ÿé´éû.
+W
+java:S4719„"9Replace charset name argument with StandardCharsets.UTF_8(ºó€¿8¿ÜÚéû.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(âó«™øÿÿÿÿ8ÿé´éû.
+c
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(ï­£Ä8ÿé´éû.
+V
+java:S47191"9Replace charset name argument with StandardCharsets.UTF_8(›Ôğ8Ç”°ø.
+l	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Æë18Í¤éû.
+a
+java:S21477"DCombine this catch with the one at line 53, which has the same body.(ï­£Ä8Õõ„°ø.
+a
+java:S2147G"DCombine this catch with the one at line 69, which has the same body.(ï­£Ä8¸²é°ø.
+a
+java:S2147^"DCombine this catch with the one at line 92, which has the same body.(ï­£Ä8ÚÅ°èû.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Â‘©úÿÿÿÿ
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÍÆÉ™ÿÿÿÿÿ8¤ÃÃèû.
+m	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’’Õ8ªö£éû.
+~
+java:S1128"\Remove this unused import 'java_basic.javaIO.stu01æµçš„åˆæ­¥è®¤è¯†.stu03å­—ç¬¦æµ.FileRW'.(ˆã ÿùÿÿÿÿ8ªá®èû.

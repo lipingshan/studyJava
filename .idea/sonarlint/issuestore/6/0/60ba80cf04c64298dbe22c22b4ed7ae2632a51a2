@@ -1,0 +1,13 @@
+
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‰›şÿÿÿÿ
+q
+java:S14880"[Immediately return this expression instead of assigning it to the temporary variable "opa".(ôãîŞ
+P	java:S125"<This block of commented-out lines of code should be removed.(ŒíàC
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îç‚şÿÿÿÿ
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "resObj".(îø
+E
+java:S3740*"/Provide the parametrized type for this generic.(†Šàİ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÑ×Ÿıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ô ˜
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(”ù³ııÿÿÿÿ

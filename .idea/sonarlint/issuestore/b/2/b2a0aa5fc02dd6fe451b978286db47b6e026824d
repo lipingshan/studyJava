@@ -1,0 +1,13 @@
+
+a
+java:S2147"DCombine this catch with the one at line 21, which has the same body.(ï­£Ä8¹š¬ø.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(‚èôÈ8ë¢«¬ø.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‹ŠƒÎùÿÿÿÿ8í™¡­ø.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¼÷Èõşÿÿÿÿ8®û¬ø.
+W	java:S125"<This block of commented-out lines of code should be removed.(«‹Ó38ìë¯¬ø.
+a
+java:S2147-"DCombine this catch with the one at line 43, which has the same body.(ï­£Ä8˜Çà¬ø.
+[
+java:S4719%"9Replace charset name argument with StandardCharsets.UTF_8(Ùú¡ûÿÿÿÿ8Üù¬ø.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¨Õ×ùÿÿÿÿ

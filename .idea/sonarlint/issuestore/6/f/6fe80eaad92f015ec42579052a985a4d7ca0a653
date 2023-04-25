@@ -1,0 +1,10 @@
+
+R
+java:S1481"0Remove this unused "hexObserver" local variable.(«¤’øÿÿÿÿ8ÍÕº¹ó.
+d
+java:S1854	"BRemove this useless assignment to local variable "binaryObserver".(éçöÉşÿÿÿÿ8ÍÕº¹ó.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ¸—Âúÿÿÿÿ
+U
+java:S1481	"3Remove this unused "binaryObserver" local variable.(éçöÉşÿÿÿÿ8ÍÕº¹ó.
+a
+java:S1854"?Remove this useless assignment to local variable "hexObserver".(«¤’øÿÿÿÿ8ÍÕº¹ó.

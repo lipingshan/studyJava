@@ -1,0 +1,16 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úîç–8»š’ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›çƒ8®§’ô.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©İ’ô.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÒøœÁ8©İ’ô.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(©õ‘Ó8„Ø°’ô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É´ÁÃÿÿÿÿÿ8çÅ™’ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º‹Ã÷8Îí›’ô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÂÕÉøÿÿÿÿ8¢™—’ô.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÒøœÁ8©İ’ô.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¬›2
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒøœÁ8¢™—’ô.
+
+java:S1192"dDefine a constant instead of duplicating this literal "my,name,is.kangkang ,.how are you ?" 3 times.(ûÏ«ÿ8õª’ô.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "[,.]+" 3 times.(İåæáÿÿÿÿÿ8õª’ô.

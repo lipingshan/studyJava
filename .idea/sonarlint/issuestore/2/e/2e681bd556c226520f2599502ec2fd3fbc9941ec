@@ -1,0 +1,69 @@
+
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+^	java:S125’"<This block of commented-out lines of code should be removed.(€“…‰תÿÿÿÿ8 ׃מהפ.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ְûÞ»תÿÿÿÿ8 ׃מהפ.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(ֲµ™“8 ׃מהפ.
+W
+java:S1854;":Remove this useless assignment to local variable "result".(בה¢8 ׃מהפ.
+^	java:S125ֽ"<This block of commented-out lines of code should be removed.(ֿˆµ¾תÿÿÿÿ8 ׃מהפ.
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(‚¹י8 ׃מהפ.
+^	java:S125¦"<This block of commented-out lines of code should be removed.(ֶÚÛ‎ÿÿÿÿ8 ׃מהפ.
+[	java:S106׃"9Replace this use of System.out or System.err by a logger.(׃Ùƒ‎ÿÿÿÿ8 ׃מהפ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ßמÝֿ8 ׃מהפ.
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(¶סÜûÿÿÿÿ8 ׃מהפ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®‎בכûÿÿÿÿ8 ׃מהפ.
+X	java:S125A"<This block of commented-out lines of code should be removed.(ץ –ה8 ׃מהפ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(­× ׳תÿÿÿÿ8 ׃מהפ.
+V	java:S106ּ"9Replace this use of System.out or System.err by a logger.(ה¦׀‚8 ׃מהפ.
+V	java:S106ײ"9Replace this use of System.out or System.err by a logger.(Úְפ²8 ׃מהפ.
+Z
+java:S1117¼"7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ג‏נÛÿÿÿÿÿ8 ׃מהפ.
+Z
+java:S1117˜"7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+V	java:S106־"9Replace this use of System.out or System.err by a logger.(ֶÝ‘8 ׃מהפ.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(צ™µ–תÿÿÿÿ8 ׃מהפ.
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ּ®×תÿÿÿÿ8 ׃מהפ.
+[	java:S106ה"9Replace this use of System.out or System.err by a logger.(®‎בכûÿÿÿÿ8 ׃מהפ.
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(§Ùרפ8 ׃מהפ.
+V	java:S106ׂ"9Replace this use of System.out or System.err by a logger.(ו‘גו8 ׃מהפ.
+Y	java:S125₪"<This block of commented-out lines of code should be removed.(¡‚Û8 ׃מהפ.
+V
+java:S1854B":Remove this useless assignment to local variable "result".(–ש­8 ׃מהפ.
+Z
+java:S1117"7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+Y
+java:S1117."7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(®‎בכûÿÿÿÿ8 ׃מהפ.
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(€ל¾8 ׃מהפ.
+U
+java:S1117µ"7Rename "fel" which hides the field declared at line 20.(°¶“¥8 ׃מהפ.
+{
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ְûÞ»תÿÿÿÿ8 ׃מהפ.
+V	java:S106ֶ"9Replace this use of System.out or System.err by a logger.(­ָע±8 ׃מהפ.
+n	java:S117ַ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‰8 ׃מהפ.
+N
+java:S1128"1Remove this unused import 'java.math.BigInteger'.(»ַג€8 ׃מהפ.
+M
+java:S3740“"/Provide the parametrized type for this generic.(Þױ8 ׃מהפ.
+V	java:S106ׁ"9Replace this use of System.out or System.err by a logger.(וֽך˜8 ׃מהפ.
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(¦§¥8 ׃מהפ.
+Y
+java:S1117a"7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+Y	java:S125ֿ"<This block of commented-out lines of code should be removed.(ְ׀צ°8 ׃מהפ.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†ד«רÿÿÿÿ8 ׃מהפ.
+Z
+java:S1117Ý"7Rename "fel" which hides the field declared at line 20.(°ךֹתÿÿÿÿ8 ׃מהפ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ß¨´¯רÿÿÿÿ8 ׃מהפ.
+\
+java:S18548":Remove this useless assignment to local variable "result".(¾ףי½שÿÿÿÿ8 ׃מהפ.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ֽך‏ÿÿÿÿ8 ׃מהפ.
+[	java:S106׀"9Replace this use of System.out or System.err by a logger.(ְשַ תÿÿÿÿ8 ׃מהפ.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(ֲµ™“8 ׃מהפ.

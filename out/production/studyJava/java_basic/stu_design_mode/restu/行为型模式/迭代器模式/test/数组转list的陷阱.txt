@@ -1,0 +1,6 @@
+2.使用Arrays.asList()
+
+List<String> resultList= new ArrayList<>(Arrays.asList(array));
+注意：调用Arrays.asList()时，其返回值类型是ArrayList，
+但此ArrayList是Array的内部类，调用add()时，会报错：java.lang.UnsupportedOperationException，
+并且结果会因为array的某个值的改变而改变，故需要再次构造一个新的ArrayList。

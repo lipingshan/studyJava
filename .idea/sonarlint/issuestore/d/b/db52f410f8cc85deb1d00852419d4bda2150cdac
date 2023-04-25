@@ -1,0 +1,10 @@
+
+K
+java:S1481")Remove this unused "next" local variable.(Ğ®Ÿ÷ûÿÿÿÿ8îÙ‚¸Ê.
+Z
+java:S1854"8Remove this useless assignment to local variable "next".(Ğ®Ÿ÷ûÿÿÿÿ8îÙ‚¸Ê.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ù™Ìé8‘î€¸Ê.
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ8îÙ‚¸Ê.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8îÙ‚¸Ê.

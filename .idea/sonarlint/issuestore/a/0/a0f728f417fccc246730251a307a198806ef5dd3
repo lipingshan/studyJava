@@ -1,0 +1,24 @@
+
+\	java:S899C";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8¸Ï“«ø.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(À¹ÿÿÿÿÿ8©Øá©ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ë‹Û»ÿÿÿÿÿ8±Ûò¥ø.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èçÕ˜üÿÿÿÿ
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñ©Ñßøÿÿÿÿ8ØóŞ©ø.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Úé£û8ã‹é©ø.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(–·ñÇúÿÿÿÿ8õŒí©ø.
+]	java:S8997"BDo something with the "boolean" value returned by "createNewFile".(¹ÈÀT8Ç¼«ø.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(üË÷ëøÿÿÿÿ8Éà‹ªø.
+^	java:S8995"BDo something with the "boolean" value returned by "createNewFile".( ôí“8¤İ¶«ø.
+p
+java:S4042C"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8¸Ï“«ø.
+c	java:S8996"BDo something with the "boolean" value returned by "createNewFile".(Ô¡Íëúÿÿÿÿ8Íå·«ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½¶—Ñùÿÿÿÿ8»„æ¤ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀêÂØøÿÿÿÿ8ÓÓÉ¥ø.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(î‡Áıúÿÿÿÿ8§¦È«ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù«›İıÿÿÿÿ8­•×©ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Òİ öıÿÿÿÿ8°¦å¤ø.
+X	java:S125:"<This block of commented-out lines of code should be removed.(¿…¡¿8‘Ÿ÷«ø.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(İÒèûûÿÿÿÿ8ëÑä©ø.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘„ÊB8‡”è¦ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì±Êâ8ÀÜ¼¦ø.
+a	java:S899"@Do something with the "boolean" value returned by "setWritable".(ö¤ìÔşÿÿÿÿ8Ü„ç¦ø.

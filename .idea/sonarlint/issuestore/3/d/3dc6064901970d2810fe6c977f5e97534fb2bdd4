@@ -1,0 +1,28 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ÿ ®øÿÿÿÿ
+r
+java:S4276("\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ªÀ†ž
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™´†Æùÿÿÿÿ
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÀìˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÙ’ì
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(äÀò»ÿÿÿÿÿ
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ†ž
+M	java:S106"9Replace this use of System.out or System.err by a logger.(é©¤c
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Õ Æ§
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(àÌøÝÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÄÀäÕ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ù±“ëøÿÿÿÿ
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(½Ÿ ®øÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(·âŠö
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ Æ§
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(’—„Çüÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(í˜°¶úÿÿÿÿ
+r
+java:S4276)"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ïÀìˆ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ïß‡Ä
+`
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "/"(â‹Â¿
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Ú’’±

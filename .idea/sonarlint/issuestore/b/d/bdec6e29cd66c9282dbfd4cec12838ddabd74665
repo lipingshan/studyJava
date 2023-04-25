@@ -1,0 +1,31 @@
+
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(÷ãı8Öá‰æô.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ˆ‡àæô.
+I
+java:S1874d",Remove this use of "exec"; it is deprecated.(Ò¬üÆ8ˆ‡àæô.
+]	java:S1251"<This block of commented-out lines of code should be removed.(Ñ„ÀÅÿÿÿÿÿ8ˆ‡àæô.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+h
+java:S1192g"FDefine a constant instead of duplicating this literal "a*b/c" 3 times.(êŞã«şÿÿÿÿ8ˆ‡àæô.
+N
+java:S1874g",Remove this use of "exec"; it is deprecated.(êŞã«şÿÿÿÿ8ˆ‡àæô.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(îÁ–ûÿÿÿÿ8ˆ‡àæô.
+N
+java:S1874a",Remove this use of "exec"; it is deprecated.(öè˜üşÿÿÿÿ8ˆ‡àæô.
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(âÍ£‘8ˆ‡àæô.
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ˆ‡àæô.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(Ó½ãß8ˆ‡àæô.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8“Êãæô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ˆ‡àæô.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8“Êãæô.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ò’Íùÿÿÿÿ
+]	java:S1253"<This block of commented-out lines of code should be removed.(Œµşÿÿÿÿ8ˆ‡àæô.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8ˆ‡àæô.
+[	java:S106–"9Replace this use of System.out or System.err by a logger.(³Éö³úÿÿÿÿ8“Êãæô.

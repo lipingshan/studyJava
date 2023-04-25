@@ -1,0 +1,30 @@
+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÄÎÁúÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ôµıŞ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ó“Éàÿÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Ş§­şÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(…Ù¥áÿÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(õÎËÿÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ò‰îÖ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(Üâ‚˜ıÿÿÿÿ
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(šºœY
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Æÿõıÿÿÿÿ
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(ƒÌåïıÿÿÿÿ8ËÀğŸò.
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(‚ó
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(È·ğŸüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄÂÙ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(Ó£ôÍ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ç §é
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Äšä–ıÿÿÿÿ
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(¹Ø¡Ú8ëïŸò.
+M	java:S106_"9Replace this use of System.out or System.err by a logger.(âÏ„#
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ôµıŞ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(¨è¬
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(²É»Œ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ñÔ‡
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ş‘šš

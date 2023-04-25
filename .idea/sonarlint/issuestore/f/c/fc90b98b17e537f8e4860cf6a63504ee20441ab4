@@ -1,0 +1,16 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÒÄ—þÿÿÿÿ8¯‘¾ýÉ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(§Ù•ê8¤˜µœË.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú·“¿8¯‘¾ýÉ.
+]	java:S125S"<This block of commented-out lines of code should be removed.(€é€÷ýÿÿÿÿ8„ž»£Ê.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Š¢Ôøÿÿÿÿ8Œ€ÓýÉ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú·“¿8¯‘¾ýÉ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…ò£—8šä¦‚È.
+>
+java:S1116"Remove this empty statement.(¤Š¢Ôøÿÿÿÿ8Œ€ÓýÉ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ú·“¿8¯‘¾ýÉ.
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8Ç ‰óÊ.
+]	java:S125V"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8„ž»£Ê.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÝËª8¾Þþ€È.
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(üüø–þÿÿÿÿ8äÌ¡£Ê.

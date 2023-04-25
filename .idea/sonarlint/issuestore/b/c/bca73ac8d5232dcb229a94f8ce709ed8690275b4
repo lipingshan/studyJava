@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Œñõüÿÿÿÿ
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ”´€üÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(…™µâ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê÷À·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ö‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï¡©šûÿÿÿÿ

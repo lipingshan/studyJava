@@ -1,0 +1,12 @@
+
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÖŞçÌüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŞçÌüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿãíé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŞçÌüÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿãíé
+c
+java:S1192
+"MDefine a constant instead of duplicating this literal "sgt1==sgt2  " 3 times.(ÿãíé
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÿãíé
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖŞçÌüÿÿÿÿ

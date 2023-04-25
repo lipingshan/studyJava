@@ -1,0 +1,17 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÐÖ§ž
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¯þƒ±øÿÿÿÿ
+’
+java:S1130/"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(™®Ð±úÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(•Æïõúÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(½ìÖòüÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(‹‘²ß
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ŠØ½Ýûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ÕÓà•ÿÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ð›ç½
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(†£Î©
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‰å´ƒþÿÿÿÿ
+J
+java:S37400"/Provide the parametrized type for this generic.(¬¯ã§þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+Q	java:S125B"<This block of commented-out lines of code should be removed.(‘Ê´ƒ

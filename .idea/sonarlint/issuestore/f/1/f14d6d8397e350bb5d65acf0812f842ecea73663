@@ -1,0 +1,16 @@
+
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ıÎÒ•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô·Æÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(»£P
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ˆ›ŠÖ
+F
+java:S1144"0Remove this unused private "Person" constructor.(ÄñêÔ
+B
+java:S1144,"'Remove this unused private "m4" method.(ò¶ó„ùÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(’œÄ§ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô– ’
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(•ı½‡üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(øër

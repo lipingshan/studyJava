@@ -1,0 +1,23 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î›™é
+o
+java:S2095$"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ŸÂ´øÿÿÿÿ8î›ôóû.
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÑëÿÆ8À¯áóû.
+c
+java:S2259"AA "NullPointerException" could be thrown; "ops" is nullable here.(îæ›Øıÿÿÿÿ8ÚÂâóû.
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ææûÿÿÿÿ8ñšöóû.
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÑÃåÍ8ÚÂâóû.
+a
+java:S2147+"DCombine this catch with the one at line 41, which has the same body.(ıàÑÎ8î›ôóû.
+a
+java:S2147"DCombine this catch with the one at line 18, which has the same body.(ï­£Ä8ğşßóû.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼âóû.
+j
+java:S5361#"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ææûÿÿÿÿ8ŸÒøóû.
+l
+java:S2095%"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÉÒ®œ8î›ôóû.
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(Åİ—8î›ôóû.

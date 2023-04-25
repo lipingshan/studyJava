@@ -1,0 +1,38 @@
+
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(´Ó’58€¡Ô½ô.
+e
+java:S1192A"HDefine a constant instead of duplicating this literal "result:" 4 times.(´±ëÒ8€¡Ô½ô.
+Z
+java:S1854'"8Remove this useless assignment to local variable "exp1".(âÊÉÇùÿÿÿÿ8€¡Ô½ô.
+a
+java:S2147_"DCombine this catch with the one at line 93, which has the same body.(Ğ¿’‘8€¡Ô½ô.
+V	java:S106«"9Replace this use of System.out or System.err by a logger.(°¶÷ğ8á£ğ½ô.
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(´±ëÒ8€¡Ô½ô.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(˜ØĞ™8€¡Ô½ô.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ñ‰«8€¡Ô½ô.
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(´±ëÒ8€¡Ô½ô.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ÎüÒçúÿÿÿÿ8€¡Ô½ô.
+a
+java:S2147O"DCombine this catch with the one at line 77, which has the same body.(Ğ¿’‘8€¡Ô½ô.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(´±ëÒ8€¡Ô½ô.
+T	java:S106?"9Replace this use of System.out or System.err by a logger.(´Ó’58€¡Ô½ô.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(î¾Ó8€¡Ô½ô.
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(Ê•æ8íéà½ô.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»™‰çûÿÿÿÿ8€¡Ô½ô.
+b
+java:S2147}"ECombine this catch with the one at line 123, which has the same body.(Ğ¿’‘8€¡Ô½ô.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(´±ëÒ8ÚÈØ½ô.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ÀŸ“›8€¡Ô½ô.
+c
+java:S2147"ECombine this catch with the one at line 141, which has the same body.(Ğ¿’‘8ÚÈØ½ô.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÀŸ“›8€¡Ô½ô.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8àòÔ½ô.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ñ‰«8€¡Ô½ô.
+K
+java:S1481'")Remove this unused "exp1" local variable.(âÊÉÇùÿÿÿÿ8€¡Ô½ô.
+]	java:S125"<This block of commented-out lines of code should be removed.(Åâ¹üÿÿÿÿ8€¡Ô½ô.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(˜ØĞ™8€¡Ô½ô.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ùş—–ıÿÿÿÿ8€¡Ô½ô.
+a
+java:S21474"DCombine this catch with the one at line 50, which has the same body.(Ğ¿’‘8€¡Ô½ô.

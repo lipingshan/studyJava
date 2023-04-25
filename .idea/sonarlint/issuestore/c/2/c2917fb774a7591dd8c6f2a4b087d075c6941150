@@ -1,0 +1,21 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "apple" 3 times.(Û¿Ü£
+›
+java:S1862*"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ó¤±«
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(€›ÞŸ
+J
+java:S3740%"/Provide the parametrized type for this generic.(â×ô»úÿÿÿÿ
+a
+java:S1192"KDefine a constant instead of duplicating this literal "strawberry" 3 times.(Û¿Ü£
+7
+java:S2326$"U is not used in the method.(µæ¦Œøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(åÛ†ß
+\
+java:S1192"FDefine a constant instead of duplicating this literal "fruit" 3 times.(Û¿Ü£
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+7
+java:S2326"U is not used in the method.(¡íÁ€ýÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ

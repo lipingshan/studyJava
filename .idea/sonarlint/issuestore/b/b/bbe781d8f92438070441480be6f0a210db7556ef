@@ -1,0 +1,17 @@
+
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(í¥Ïøÿÿÿÿ8…¤Áü.
+b
+java:S2184 "@Cast one of the operands of this addition operation to a "long".(½Ñİİûÿÿÿÿ8Ô¿¤Áü.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(§…ÿÓ8…¤Áü.
+p
+java:S2095"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ü´‘”şÿÿÿÿ8Ô¿¤Áü.
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜ä¯¹ûÿÿÿÿ8ê£ Áü.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Ì–ùÿÿÿÿ8ŒÔ¨Áü.
+V
+java:S4719""9Replace charset name argument with StandardCharsets.UTF_8(Çášı8…¤Áü.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñĞËË
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ÊÃÚıÿÿÿÿ8…¤Áü.
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(ñ…Ø•ÿÿÿÿÿ8Ô¿¤Áü.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œïßö8Á¥ªÁü.

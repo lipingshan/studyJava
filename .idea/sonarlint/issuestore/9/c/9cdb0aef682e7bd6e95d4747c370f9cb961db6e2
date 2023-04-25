@@ -1,0 +1,13 @@
+
+L
+java:S2093
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8©¼œóû.
+g
+java:S2259!"EA "NullPointerException" could be thrown; "seinput" is nullable here.(ß¸³øÿÿÿÿ8÷è¡óû.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«ê‚÷8 ¹óû.
+]	java:S125"<This block of commented-out lines of code should be removed.(•ğ®Ïøÿÿÿÿ8èÇ­óû.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬­œ’
+l
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(œ²­”8èÇ­óû.
+a
+java:S2147"DCombine this catch with the one at line 27, which has the same body.(ï­£Ä8×“šóû.

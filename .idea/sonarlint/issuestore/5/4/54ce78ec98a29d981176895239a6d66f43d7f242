@@ -1,0 +1,10 @@
+
+u
+java:S1104"ZMake noQuarterState a static final constant or non-public and provide accessors if needed.(ÐÌ·ˆùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÃ¨Ê
+s
+java:S1104	"XMake soldOutState a static final constant or non-public and provide accessors if needed.(ËÖýÊøÿÿÿÿ
+q
+java:S1104"[Make hasQuarterState a static final constant or non-public and provide accessors if needed.(ÇçØµ
+p
+java:S1104"UMake soldState a static final constant or non-public and provide accessors if needed.(°«Ýñüÿÿÿÿ

@@ -1,0 +1,15 @@
+
+]	java:S125("<This block of commented-out lines of code should be removed.(ˆƒí’ûÿÿÿÿ8Ä‡íîû.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œœçóùÿÿÿÿ
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Œ“ù›ùÿÿÿÿ8†ĞÚëû.
+>
+java:S2111)"!Use "BigDecimal.valueOf" instead.(­“¤½8Ü‹úîû.
+c	java:S899I"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8íÛ©ëû.
+g	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(í·ûûÿÿÿÿ8†Ãğêû.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¡Î©¢ıÿÿÿÿ8ËöÔîû.
+R
+java:S1874*"5Remove this use of "ROUND_HALF_UP"; it is deprecated.(ïµÓš8™ñøîû.
+M
+java:S1874*"0Remove this use of "setScale"; it is deprecated.(ïµÓš8™ñøîû.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(âó«™øÿÿÿÿ8íÛ©ëû.

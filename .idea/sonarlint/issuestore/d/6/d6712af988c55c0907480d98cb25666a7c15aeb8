@@ -1,0 +1,25 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Ì–ùÿÿÿÿ8ó˜îÀü.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñĞËË
+a
+java:S2147="DCombine this catch with the one at line 59, which has the same body.(ï­£Ä8ó˜îÀü.
+a
+java:S2147_"DCombine this catch with the one at line 93, which has the same body.(ï­£Ä8÷àŠÁü.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Êá¢­ùÿÿÿÿ8„úÀü.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(º×®¸8ÇóÁü.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(æş‘ë8ÇóÁü.
+[
+java:S4719T"9Replace charset name argument with StandardCharsets.UTF_8(¬ºÂáıÿÿÿÿ8ÇóÁü.
+c
+java:S1192L"FDefine a constant instead of duplicating this literal "UTF-8" 4 times.(¬ì¥é8ÇóÁü.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(º×®¸8ÇóÁü.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¼³Ö8ó˜îÀü.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÔéÚÉ8ó˜îÀü.
+[
+java:S4719Y"9Replace charset name argument with StandardCharsets.UTF_8( ¯ÀËøÿÿÿÿ8ÇóÁü.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ¸æıÿÿÿÿ8ÿŸ”Àü.
+[
+java:S4719P"9Replace charset name argument with StandardCharsets.UTF_8(ı‘Ô¿ûÿÿÿÿ8ÇóÁü.
+V
+java:S4719L"9Replace charset name argument with StandardCharsets.UTF_8(¬ì¥é8ÇóÁü.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(šÀ›8ó˜îÀü.
