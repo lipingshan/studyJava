@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ssh_origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84c0324d-a66d-48f7-b430-f15f8bde6178" name="Default" comment="插入图片hhhh">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/abc.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="mian" />
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hot_fix" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="8c0530ee-c1a0-4efd-a821-ef6f034e76df" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\dowloadlps\idea\install\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hMKowQYQ9Wu3QrkjkPoeM3qLNm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="distinByKey&#9;ACTION&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14481267" />
+    <property name="project.structure.side.proportion" value="0.20556024" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src/java_basic/stu_design_mode/restu/行为型模式/状态模式/example1/lowcode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\javaIO\01常用的流" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\javaIO" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\stu_design_mode\restu\行为型模式\解释器模式" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\stu_design_mode\restu\行为型模式\迭代器模式\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java_basic.stu_design_mode.restu.行为型模式.责任链模式" />
+      <recent name="java_basic.stu_design_mode.restu.创建型模式.建造者模式" />
+      <recent name="java_basic.stu_design_mode.stu_Decorator.cello2" />
+      <recent name="java_basic.stu_design_mode.stu_bridge.a" />
+      <recent name="java_basic.stu_design_mode.stu_Chain_of_Responsibility.a" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\projwork\stu-java\studyJava\src\java_basic\java8new" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\javaIO\stu01流的初步认识\stu05流链接" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\lib" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\stu_design_mode\restu\行为型模式\解释器模式" />
+      <recent name="E:\idea\svn\repositorylocation\studyJava\src\java_basic\stu_design_mode\restu\行为型模式\迭代器模式" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OptionalTest.test">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="HelloWorld" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyStreamAPITest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basic.java8new.jdk8.java3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_basic.java8new.jdk8.java3" />
+      <option name="MAIN_CLASS_NAME" value="java_basic.java8new.jdk8.java3.MyStreamAPITest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basic.java8new.jdk8.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_basic.java8new.jdk8.java4" />
+      <option name="MAIN_CLASS_NAME" value="java_basic.java8new.jdk8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basic.java8new.jdk8.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_basic.java8new.jdk8.java4" />
+      <option name="MAIN_CLASS_NAME" value="java_basic.java8new.jdk8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basic.java8new.jdk8.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_basic.java8new.jdk8.java4" />
+      <option name="MAIN_CLASS_NAME" value="java_basic.java8new.jdk8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="studyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basic.java8new.jdk8.java4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java_basic.java8new.jdk8.java4" />
+      <option name="MAIN_CLASS_NAME" value="java_basic.java8new.jdk8.java4.OptionalTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyStreamAPITest.test1" />
+      <item itemvalue="JUnit.OptionalTest.test2" />
+      <item itemvalue="JUnit.OptionalTest.test3" />
+      <item itemvalue="JUnit.OptionalTest.test4" />
+      <item itemvalue="JUnit.OptionalTest.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OptionalTest.test" />
+        <item itemvalue="JUnit.OptionalTest.test4" />
+        <item itemvalue="JUnit.OptionalTest.test3" />
+        <item itemvalue="JUnit.OptionalTest.test2" />
+        <item itemvalue="JUnit.MyStreamAPITest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lpsadmin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c0324d-a66d-48f7-b430-f15f8bde6178" name="Default" comment="" />
+      <created>1584434413055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584434413055</updated>
+      <workItem from="1584434415128" duration="2692000" />
+      <workItem from="1585225868601" duration="442000" />
+      <workItem from="1591926303107" duration="9670000" />
+      <workItem from="1591965169616" duration="9227000" />
+      <workItem from="1592007694971" duration="8152000" />
+      <workItem from="1592029035103" duration="182000" />
+      <workItem from="1592029249541" duration="18652000" />
+      <workItem from="1592088463197" duration="31567000" />
+      <workItem from="1592175293017" duration="33142000" />
+      <workItem from="1592265001739" duration="15065000" />
+      <workItem from="1592291127856" duration="19282000" />
+      <workItem from="1592350181240" duration="12180000" />
+      <workItem from="1592438784860" duration="1894000" />
+      <workItem from="1592523386470" duration="5571000" />
+      <workItem from="1592598225438" duration="5922000" />
+      <workItem from="1592907277540" duration="6655000" />
+      <workItem from="1592956415534" duration="22631000" />
+      <workItem from="1593043254325" duration="29527000" />
+      <workItem from="1593189583878" duration="14792000" />
+      <workItem from="1593305269281" duration="6044000" />
+      <workItem from="1593395723263" duration="4303000" />
+      <workItem from="1593407930025" duration="3561000" />
+      <workItem from="1594116691986" duration="668000" />
+      <workItem from="1594199483519" duration="594000" />
+      <workItem from="1594263974971" duration="296000" />
+      <workItem from="1594476176164" duration="1217000" />
+      <workItem from="1595299258226" duration="82000" />
+      <workItem from="1595813282913" duration="497000" />
+      <workItem from="1595827108729" duration="2685000" />
+      <workItem from="1597797569446" duration="2395000" />
+      <workItem from="1597845732887" duration="824000" />
+      <workItem from="1597883943599" duration="1360000" />
+      <workItem from="1598072429922" duration="4638000" />
+      <workItem from="1598143831564" duration="6620000" />
+      <workItem from="1598338774541" duration="8566000" />
+      <workItem from="1598403064733" duration="1514000" />
+      <workItem from="1599815701748" duration="1253000" />
+      <workItem from="1599872252778" duration="4138000" />
+      <workItem from="1600402926861" duration="3821000" />
+      <workItem from="1600485089306" duration="4563000" />
+      <workItem from="1600529441686" duration="909000" />
+      <workItem from="1600648674827" duration="2412000" />
+      <workItem from="1600740031455" duration="1421000" />
+      <workItem from="1603673573944" duration="5776000" />
+      <workItem from="1605099386477" duration="38000" />
+      <workItem from="1609758175915" duration="4262000" />
+      <workItem from="1609808575260" duration="2203000" />
+      <workItem from="1609989844716" duration="11230000" />
+      <workItem from="1610070821893" duration="5168000" />
+      <workItem from="1610327040064" duration="2486000" />
+      <workItem from="1610416373906" duration="15047000" />
+      <workItem from="1610499948781" duration="2537000" />
+      <workItem from="1610696991387" duration="2494000" />
+      <workItem from="1610853213530" duration="280000" />
+      <workItem from="1610931640765" duration="11443000" />
+      <workItem from="1611026550775" duration="11763000" />
+      <workItem from="1611104681083" duration="21384000" />
+      <workItem from="1611191074186" duration="16471000" />
+      <workItem from="1611278182132" duration="9360000" />
+      <workItem from="1611537585868" duration="13470000" />
+      <workItem from="1611625619460" duration="9864000" />
+      <workItem from="1611709491852" duration="21895000" />
+      <workItem from="1611798149023" duration="17172000" />
+      <workItem from="1611823226217" duration="3240000" />
+      <workItem from="1611882805284" duration="14589000" />
+      <workItem from="1612141982717" duration="6522000" />
+      <workItem from="1612835351648" duration="21244000" />
+      <workItem from="1612919508054" duration="2052000" />
+      <workItem from="1613782783335" duration="21450000" />
+      <workItem from="1613955123171" duration="17029000" />
+      <workItem from="1617161176519" duration="3961000" />
+      <workItem from="1617238157383" duration="8766000" />
+      <workItem from="1617325425921" duration="1498000" />
+      <workItem from="1617670784539" duration="761000" />
+      <workItem from="1617757259958" duration="1321000" />
+      <workItem from="1618017868324" duration="1213000" />
+      <workItem from="1620713777798" duration="2128000" />
+      <workItem from="1620867616631" duration="1807000" />
+      <workItem from="1621324437873" duration="19616000" />
+      <workItem from="1664352095561" duration="1295000" />
+      <workItem from="1664761620288" duration="1628000" />
+      <workItem from="1664870207355" duration="619000" />
+      <workItem from="1665022205892" duration="10652000" />
+      <workItem from="1665126739625" duration="2863000" />
+      <workItem from="1665155640445" duration="846000" />
+      <workItem from="1665281719199" duration="6024000" />
+      <workItem from="1665370747509" duration="1377000" />
+      <workItem from="1665568031330" duration="725000" />
+      <workItem from="1665652175763" duration="3130000" />
+      <workItem from="1665732164299" duration="2410000" />
+      <workItem from="1678614238653" duration="8000" />
+      <workItem from="1678614259318" duration="536000" />
+      <workItem from="1678787680380" duration="791000" />
+      <workItem from="1678860214314" duration="1924000" />
+      <workItem from="1682390143236" duration="18000" />
+      <workItem from="1682390180992" duration="17876000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1682391386803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682391386803</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建一个分支main，虽然远程本身就有">
+      <created>1682396883902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682396883902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="xxxxxxx">
+      <created>1682398419764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682398419764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改main中的readme.md文件">
+      <created>1682406547018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682406547018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="插入图片">
+      <created>1682407010117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682407010117</updated>
+    </task>
+    <task id="LOCAL-00006" summary="插入图片xx">
+      <created>1682433077515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433077515</updated>
+    </task>
+    <task id="LOCAL-00007" summary="插入图片yyy">
+      <created>1682433466518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433466518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="插入图片zzz">
+      <created>1682433572029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433572029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="插入图片ddd">
+      <created>1682433697898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433697898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="插入图片ddd">
+      <created>1682433929217</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433929217</updated>
+    </task>
+    <task id="LOCAL-00011" summary="插入图片fff">
+      <created>1682433958185</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682433958185</updated>
+    </task>
+    <task id="LOCAL-00012" summary="插入图片fff">
+      <created>1682434052128</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682434052128</updated>
+    </task>
+    <task id="LOCAL-00013" summary="插入图片hhhh">
+      <created>1682434068739</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682434068739</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="创建一个分支main，虽然远程本身就有" />
+    <MESSAGE value="xxxxxxx" />
+    <MESSAGE value="修改main中的readme.md文件" />
+    <MESSAGE value="插入图片" />
+    <MESSAGE value="插入图片xx" />
+    <MESSAGE value="插入图片yyy" />
+    <MESSAGE value="插入图片zzz" />
+    <MESSAGE value="插入图片ddd" />
+    <MESSAGE value="插入图片fff" />
+    <MESSAGE value="插入图片hhhh" />
+    <option name="LAST_COMMIT_MESSAGE" value="插入图片hhhh" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="235" key="#Notifications" timestamp="1682393017611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1682393017611" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1682433296734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1682433296734" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1682434513783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1682434513783" />
+    <state width="438" height="342" key="Git.Branch.Popup" timestamp="1682434733873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="438" height="342" key="Git.Branch.Popup/0.0.1536.824@0.0.1536.824" timestamp="1682434733873" />
+    <state x="429" y="116" width="750" height="592" key="NewModule_or_Project.wizard" timestamp="1682434532731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="116" width="750" height="592" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1682434532731" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1682434535493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1682434535493" />
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1682406478626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824@0.0.1536.824" timestamp="1682406478626" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1682434781589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1682434781589" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1682390604549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1682390604549" />
+    <state x="548" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1682390869200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="146" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1682390869200" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1682404133503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1682404133503" />
+    <state x="570" y="319" width="595" height="200" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1682412550176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" width="595" height="200" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1682412550176" />
+    <state x="556" y="310" key="git4idea.ui.GitStashDialog" timestamp="1682391840800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="556" y="310" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1682391840800" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1682406529654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1682406529654" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_basic/stu_design_mode/restu/行为型模式/解释器模式/InterpreterPattern.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java_basic/stu_design_mode/restu/行为型模式/解释器模式/InterpreterPattern.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
